@@ -1,0 +1,12 @@
+{
+  "name": "Điệp Khúc Live - Video Voice Chat & Hát Cho Nhau Nghe",
+  "description": "Cộng đồng Video & Voice Chat trực tuyến theo phong cách DiepKhuc kinh điển: Xếp hàng cầm mic, hát karaoke giao lưu, xem webcam sân khấu, chat và gửi quà tặng thời gian thực.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
